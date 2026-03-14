@@ -46,8 +46,6 @@ This project simulates how real data analysts work in e-commerce and retail. Usi
 
 ## 📈 Dashboard
 
-![Zepto Power BI Dashboard](zepto_dashboard.png)
-
 📄 [View Full Dashboard PDF](zepto_dashboard.pdf)
 
 ### Dashboard KPIs
